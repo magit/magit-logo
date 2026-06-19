@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://magit.vc/assets/logo/logo/400x400/magit-logo-400x400px-transparent-bg.png">
+  <img src="https://github.com/magit/magit-logo/blob/main/images/logo/400x400/magit-logo-400x400px-transparent-bg.png">
 </div>
 
 The Magit logo was [created](https://prospectone.io/portfolio/magit)
@@ -12,10 +12,10 @@ Jonas Bernoulli owns the copyright.  You can use this logo under the terms of th
 </a>.
 
 <div align="center">
-  <img src="https://magit.vc/assets/logo/logo/200x200/magit-logo-200x200px-transparent-bg.png">
+  <img src="https://github.com/magit/magit-logo/blob/main/images/logo/200x200/magit-logo-200x200px-transparent-bg.png">
 </div>
 
 <div align="center">
-  <img src="https://magit.vc/assets/logo/horizonal/400x400/magit-horizontal-400x400px-transparent-bg.png">
-  <img src="https://magit.vc/assets/logo/vertical/400x400/magit-vertical-400x400px-transparent-bg.png">
+  <img src="https://github.com/magit/magit-logo/blob/main/images/horizontal/400x400/magit-horizontal-400x400px-transparent-bg.png">
+  <img src="https://github.com/magit/magit-logo/blob/main/images/vertical/400x400/magit-vertical-400x400px-transparent-bg.png">
 </div>
